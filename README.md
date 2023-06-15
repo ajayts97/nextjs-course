@@ -1,1 +1,1 @@
-# nextjs-course-
+# nextjs-course
